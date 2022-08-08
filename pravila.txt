@@ -62,13 +62,12 @@ Vengono i due figli di Marisa -  Придут оба сына Маризы
 
 Порядковые числительные  (Когда называется порядок предметов) : 
 -----------------------------------------------------------
-| 1 	primo 	| 6 	sesto 	| 13 	tredicesimo
-| 2 	secondo	| 7 	settimo	| 20 	ventesimo
-| 3 	terzo 	| 8 	ottavo 	| 21 	ventunesimo
-| 4 	quarto 	| 9 	nono 	| 100 	centesimo
-| 5 	quinto 	| 10 	decimo 	| 1000 	millesimo
+| 1 	primo 	| 6 	sesto 	| 13 	tredicesimo       |
+| 2 	secondo	| 7 	settimo	| 20 	ventesimo         |
+| 3 	terzo 	| 8 	ottavo 	| 21 	ventunesimo       |
+| 4 	quarto 	| 9 	nono 	| 100 	centesimo         |
+| 5 	quinto 	| 10 	decimo 	| 1000 	millesimo         |
 -----------------------------------------------------------
-
 
 si - vozvratnaya chastica 
 chiama - zovut
@@ -146,60 +145,206 @@ Zadachi :
 
 #>> Pryamiye dopolneniya
 
-Dva vremeni - soversheiy / possato prosimo
+Dva vremeni - soversheiy / possato prossimo
 
 #>> Samoye vaznoye seychas - possato prosimo. Sdelat` upor
 
 --------------------------------------------------
+Инфинитив addormentarsi:
 
-Perevedite ispolzuia passato prossimo
-(ausiliare avere).
-1. Я поел. Я выпил. Ты поел. Ты выпил. Мы
-поели. Мы выпили. 2. Они писали. Они читали. Ты
-писал. Ты читал. Я писала. Я читала. 3. Ты сделал. Он
-сделал. Мы сделали. 4. Ты сказал. Ты сказала. Вы
-сказали. 5. Они работали. Я работала. Он работал. 6.
-Он смеялся. Они смеялись. Мы смеялись. 
+io - mi addormento
+tu - ti addormenti
+lui/lei - si addormenta
+noi - ci addormentiamo
+voi - vi addormentate
+loro - si addormentano
 
------------------------------------------------------
-Coniugate i verbi tra parentesi al presente (verbi
-riflessivi):
-1. Mia moglie di solito (alzarsi) un'ora dopo di me.i
+--------------------------------------------------
+Глаголы - исключения Passato prossimo
 
-2. Prima di uscire (noi / mettersi) il cappotto, (pettinarsi) e
-(guardarsi) allo specchio.
+accendere - acceso - включить
+spegnere - spento - выключить
+prendere - preso - взять
+rendere - reso - отдать
+domandare - domandato = chiedere - chiesto - спросить
+rispondere - risposto - ответить
+scegliere - scelto - выбрать
+comprare - comprato - купить 
+vendere - venduto - продать
+promettere - promesso - пообещать
+trovare - trovato - найти
+perdere - perso (но можно и perduto) - потерять 
+pensare - pensato - думать
+insegnare - insegnato - преподавать
+apprendere - appreso = imparare - imparato = studiare - studiato - учить, выучить
+cominciare - cominciato - начинать
+finire - finito - закончить
 
-3. Mia sorella (lavarsi) i denti
-due volte al giorno e (pesarsi) dieci volte al giorno.
+--------------------------------------------------
+Список глаголов, которые мы прошли по учебнику, в форме ИНФИНИТИВА:
 
-4. Come (chiamarsi), Signora? — (Io / chiamarsi) Rossi.
+Avere		 -	Иметь
+Essere		 -	Быть
 
-5. La sera dopo il lavoro (io / essere) così stanco che
-(addormentarsi) nell'autobus.
+Andare		 -	Ходить
+Stare		 - 	Быть (состояние, нахождение)
+Cominciare	 - 	Начинать
+Chiamare	 - 	Звать
+Durare		 - 	Длиться
+Segnare		 - 	Отмечать
+Entrare		 - 	Входить
+Fare		 - 	Делать
+Lavare		 - 	Мыть
+Alzare		 - 	Поднимать
+Suonare		 - 	Звонить, играть (на инструменте)
+Svegliare	 - 	Будить
+Mangiare	 - 	Есть
+Cenare		 - 	Ужинать
+Pranzare	 - 	Обедать
+Dare		 - 	Давать
+Mostrare	 - 	Показывать
+Baciare		 - 	Целовать
+Raccontare	 - 	Рассказывать
+Regalare	 - 	Дарить
+Domandare	 - 	Спрашивать
 
-6. Mario in bagno (lavarsi),
-(asciugarsi), (farsi) la barba; poi (uscire) dal bagno e
-(vestirsi).
+Dire		 -	Говорить
+Finire		 -	Заканчивать
+Dormire		 -	Спать
+Vestire		 -	Одевать, носить
+Sentire		 -	Слышать, чувствовать
 
-Sostituite le parole in corsivo con i pronomi atoni
-(complemento diretto):
+Mettere		 -	Класть
+Bere		 -	Пить
+Prendere	 -	Брать
+Rispondere	 -	Отвечать
 
-1. Io conosco bene Mario.
+--------------------------------------------------
+Переделать второе упражнение с passato prossimo
 
-2. Io ricordo queste regole.
+Переписать таблицу из дискорда
 
-3. Io leggo il giornale.
+Местоимения в кач-ве дополнений
 
-4. Noi leggiamo queste riviste.
+Возвратные глаголы
+lavarsi --> si lava, si lavano
 
-5. Tu fumi una sigaretta.
+lavare --> lavarsi
 
-6. Io bevo un caffè.
+Io        -     Mi addormento
+Tu        -     Ti addormenti
+Lui/Lei   -     Si addormenta
+Noi       -     Ci addormentiamo
+Voi       -     Vi addormentate
+Loro      -     Si addormentano
 
-7. Carlo fa la doccia tutti i giorni.
+Прошедшее время >>--------------------------------------------------------------
 
-8. Cristina cucina bene gli spaghetti.
+В итальянском языке для того, чтобы говорть о прошлом, используются несколько
+прошедших времен. Наиболее употребляемых из них - 5 шт:
 
-9. Il professore saluta gli studenti.
+Il passato prossimo	- 	Прошедшее ближайшее
 
-10. Lasciamo la macchina vicino a casa.
+L`imperfetto		-	Прошедшее незаконченное
+
+Il trapassato prossimo	-	Пердпрошедшее
+
+Il passato remoto	-	Давнопрошедшее
+
+Il trapasatto remoto	-	Давнопрошедшее предшевствующее
+
+
+Passato prossimo >>-------------------------------------------------------------
+
+Passato prossimo - выражает завершенное действие в прошлом и отвечает на вопрос
+"Что сделал(а)? / "Что сделали?"). Например : 
+
+Ho (letto) questo libro - Я прочитал (эту) книгу  - Это факт. И Passato
+prossimo выражает свершившийся факт
+
+Если что-то произошло в прошлом один или несколько раз, и мы хотим поделиться с
+собеседником этим фактом, например :
+
+leri (sono) (stato) al cinema  - Вчера я (был) в кино 
+
+(Mi sono svegliato) presto   - Я (проснулся) рано
+
+(Sono tornato) a casa tardi  - Я (вернулся) домой поздно
+
+
+Все это выражается с помощью Passato prossimo
+
+Passato prossimo состоит из 2х частей :
+
+1ая часть - Вспомог. глагол Essere / Avere
+2ая часть - Причастие прошедшего времени
+
+AVERE_______________________________
+HO   -  letto (я прочитал(-а)) 
+HAI  -  letto (ты прочитал(-а))
+HA   -  letto (он, она прочитал(-а))
+
+ESSERE______________________________
+SONO -  tornato (я вернулся)
+SEI  -  tornato (ты вернулся)
+È    -  tornato (он вернулся)
+
+Imperfetto >>-------------------------------------------------------------------
+Когда мы хотим описать прошлое,т.е какими мы были раньше,
+либо описать обстановку в прошлом, например :
+
+Da studente (andavo) spesso a teatro - Когда я (был) студентом,
+				       я часто (ходил) в театр
+
+Il tempo (era) bello. (C`era) il sole  - Погда (была) прекрасной,
+				         (светило) солнце
+
+Quando (leggevo), il mio amico mi ha chiamato - Когда я (читал),
+					   позвонил мой друг
+
+
+Все это выражается с помощью Imperfetto
+
+
+Trapassato prossimo >>---------------------------------------------------------
+
+Когда одно прошедшее время предшевствует другому, например :
+
+Quando sono venuto, i miei (erano) già (andati) a letto -
+Когда я пришел, мои родные уже (легли) спать
+
+
+Для того, чтобы выразить пред-прошедшее время,
+используется Trapassato prossimo
+
+Passato remoto/Trapassato remoto >>--------------------------------------------
+
+Формы навроде : Leonardo di Ser Piero da vinci (nacque) a Vinci nel 1452.
+
+nacque - родился
+
+fui, ebbi, bevve
+Являются Passato remoto/Trapassato remoto
+>>--------------------------------------------------------------
+
+Как строятся причастия прошедшего времени? (Partipio passato):
+
+Они могут образовываться как "правильно", т.е по определенным правилам,
+так и "не правильно" (это то, что предстоит просто запомнить)
+
+Правильное образование :
+
+Глагол с окончанием -are, -ere, -ire -->> лишается окончания -->> Заместо
+отброшенного окончания ставиться новое -ato, -uto, -ito
+
+-------------------------------------------------------------------
+|                |Примеры: 
+|-are -->> -ato; | parl(are) -->> parl(ato) - Ho parl(ato) con lui 
+|                | and(are)  -->> and(ato) - Sono and(ato) al cinema
+|-------------------------------------------------------------------
+|-ere -->> -uto; | conosc(ere) -->> conosci(uto) - L`ho conosci(uto) 2 anni fa
+|                | sap(ere)  -->> sap(uto) - Ho sap(uto) che lui abita qui 
+|-------------------------------------------------------------------
+|-ire -->> -ito; | fin(ire) -->> fin(ito) - Ho fin(ito) il mio lavoro
+|                | cap(ire) -->> cap(ito) - Ho capito tutto
+-------------------------------------------------------------------
