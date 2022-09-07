@@ -12,7 +12,9 @@
 
 Или направление действия (куда-либо, на что-либо).
 
-	Vado per l’iscrizione ad un corso d’italiano. Я иду записаться на курсы итальянского.  
+	Vado per l’iscrizione ad un corso d’italiano. Я иду записаться на курсы
+	итальянского.  
+
 3. Выполняет функцию дательного падежа (кому? чему?).
 
 	Scrivo a Marco. Я пишу Марко.
@@ -72,7 +74,8 @@
 	Intorno a noi, dappertutto, ci sono persone così. 
 	Такие люди есть везде вокруг нас.
 
-10. Ставится после многих глаголов для связки: chiedere, aiutare, riuscire, cominciare и т.д.
+10. Ставится после многих глаголов для связки:
+chiedere, aiutare, riuscire, cominciare и т.д.
 
 	Non riesco a dormire senza di te. 
 	Я не могу заснуть без тебя.
