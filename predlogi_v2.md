@@ -1,32 +1,48 @@
 ### Предлог a
 1. Указывает на местонахождение предмета, лица.
-    Sono a casa. Я дома.
-    Sono a Mosca. Я в Москве.
+
+	Sono a casa. Я дома.
+	Sono a Mosca. Я в Москве.
+
 2. Указывает на направление движения.
+
 	Vado a Mosca. Я еду в Москву.
 	Vado a dormire. Я иду спать.
 	Vanno a scuola. Они идут в школу.
+
 Или направление действия (куда-либо, на что-либо).
+
 	Vado per l’iscrizione ad un corso d’italiano. Я иду записаться на курсы итальянского.  
 3. Выполняет функцию дательного падежа (кому? чему?).
+
 	Scrivo a Marco. Я пишу Марко.
 	Date il libro a Maria? Вы даёте книгу Марии?
+
 4. Указывает на время, возраст.
+
 	Arriverà alle sette. Он прибудет в семь.
 	Giocava a calcio a dieci anni. Он играл в футбол, когда ему было десять лет.
 	Mario rientra a casa all’ora di cena. Марио возвращается домой к ужину.
+
 5. Выполняет функцию определения при существительном.
+
 	Una casa a molti piani. Многоэтажный дом.
 	Una stoffa a quadretti. Ткань в клетку.
+
 6. Обозначает единицы измерения.
+
 	Queste mele costano un dollaro al chilo. Эти яблоки стоят доллар за килограмм.
 	Questa stoffa costa sessanta euro al metro. Эта ткань стоит 60 евро за метр.
+
 7. Ставится после глаголов для обозначения образа действия.
+
 	Andare a piedi. Идти пешком.
 	Raccontare a senso. Рассказывать с выражением.
 	Parlare ad alta voce. Говорить вслух.
 	Imparare a memoria. Учить наизусть.
+
 8. Используется в устойчивых сочетаниях, обозначающих место в пространстве.
+
 	Lo porta appeso al collo.
 	Она носит его на шее.
 
@@ -43,6 +59,7 @@
 	Мне нравится солнце справа и море слева.
 
 9. Входит в состав многих предложных сочетаний.
+
 	Oltre a questo, è studentessa. 
 	Помимо этого, она студентка.
 
@@ -56,6 +73,7 @@
 	Такие люди есть везде вокруг нас.
 
 10. Ставится после многих глаголов для связки: chiedere, aiutare, riuscire, cominciare и т.д.
+
 	Non riesco a dormire senza di te. 
 	Я не могу заснуть без тебя.
 
@@ -180,7 +198,8 @@ Con, подобно русскому предлогу «с», выполняет
 	Il libro è letto dallo studente. 
 	Книга прочитана студентом.
 
-	Используется в значении «сам», «сама», «сами» (без чужой помощи): da me, da te = da solo, da sola, da soli, da sole.
+	Используется в значении «сам», «сама», «сами» (без чужой помощи): da
+	me, da te = da solo, da sola, da soli, da sole.
 
 	Lo faccio da me. Я сделаю это сам.
 
@@ -362,6 +381,7 @@ Con, подобно русскому предлогу «с», выполняет
 2. Указывает на отрезок времени:
 
 а) за какое время:
+
 	Ho fatto la traduzione in tre ore. 
 	Я выполнил перевод за три часа. 
 
